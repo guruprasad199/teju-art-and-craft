@@ -1,0 +1,25 @@
+.jumbotron
+{
+  margin:15px 30px 0px 30px;
+  border-radius:10px;
+    background: 
+linear-gradient(
+  rgba(0, 0, 250, 0.25), 
+  rgba(125, 250, 250, 0.45)
+),
+url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.theprint.in%2Fwp-content%2Fuploads%2F2020%2F03%2FUntitled-design-2-696x392.jpg&imgrefurl=https%3A%2F%2Ftheprint.in%2Feconomy%2Fritesh-agarwals-oyo-hotels-to-cut-5000-jobs-in-india-china-and-us%2F375748%2F&tbnid=OFY2pfvfqAlcJM&vet=12ahUKEwiV2rCF8sjvAhX6hUsFHf5UC_4QMygAegUIARCnAQ..i&docid=cQP101vnID7-CM&w=696&h=392&q=oyo%20hotel%20images&ved=2ahUKEwiV2rCF8sjvAhX6hUsFHf5UC_4QMygAegUIARCnAQ);
+background-repeat: no-repeat;
+background-attachment: fixed;
+color:white !important;
+height:340px;
+}
+
+
+
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  
+}
